@@ -1,4 +1,6 @@
-/* Format Date
+     <h1> Format Tanggal Indonesia</h1>
+     
+     /* Format Date
      variable = \Carbon\Carbon::now()->locale('id')->isoFormat('LLL');
                     return : 3 Juli 2020 pukul 15.17
      variable = \Carbon\Carbon::now()->locale('id')->isoFormat('LL');
