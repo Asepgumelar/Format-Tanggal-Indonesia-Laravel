@@ -1,4 +1,4 @@
-     <h1> Format Tanggal Indonesia</h1>
+Format Tanggal Indonesia     
      
      /* Format Date
      variable = \Carbon\Carbon::now()->locale('id')->isoFormat('LLL');
